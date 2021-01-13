@@ -21,7 +21,7 @@
   "dependencies": {
     "chosen-js": "^1.7.0",
     "gmaps": "^0.4.24",
-    "jquery-validation": "^1.17.0",
+    "jquery-validation": "^1.19.3",
     "moment": "^2.18.1",
     "owl.carousel": "^2.2.0",
     "pikaday": "^1.6.1",
